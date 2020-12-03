@@ -22,7 +22,7 @@ export const App = () => {
     <Container maxWidth="sm">
       <Box sx={{m:4}}>
         <Typography variant="h4" component="h1" gutterBottom>
-          Create Your React App example with TypeScript
+          Create Your New React App example with TypeScript
         </Typography>
         <ProTip />
         <Copyright />
